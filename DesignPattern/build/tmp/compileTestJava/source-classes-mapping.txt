@@ -1,2 +1,4 @@
 ObserverPattern/WeatherStationTest.java
  ObserverPattern.WeatherStationTest
+DecoratorPattern/MochaTest.java
+ DecoratorPattern.MochaTest

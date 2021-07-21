@@ -8,3 +8,19 @@ ObserverPattern/CurrentConditionsDisplay.java
  ObserverPattern.CurrentConditionsDisplay
 ObserverPattern/DisplayElement.java
  ObserverPattern.DisplayElement
+ObserverPattern/CurrentConditionsDisplay2.java
+ ObserverPattern.CurrentConditionsDisplay2
+ObserverPattern/ForecastDisplay.java
+ ObserverPattern.ForecastDisplay
+ObserverPattern/WeatherData2.java
+ ObserverPattern.WeatherData2
+DecoratorPattern/Mocha.java
+ DecoratorPattern.Mocha
+DecoratorPattern/CondimentDecorator.java
+ DecoratorPattern.CondimentDecorator
+DecoratorPattern/Beverage.java
+ DecoratorPattern.Beverage
+DecoratorPattern/Espresso.java
+ DecoratorPattern.Espresso
+DecoratorPattern/HouseBlend.java
+ DecoratorPattern.HouseBlend
