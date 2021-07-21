@@ -2,3 +2,5 @@ ObserverPattern/WeatherStationTest.java
  ObserverPattern.WeatherStationTest
 DecoratorPattern/MochaTest.java
  DecoratorPattern.MochaTest
+SingletonPattern/Singleton2Test.java
+ SingletonPattern.Singleton2Test

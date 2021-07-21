@@ -24,3 +24,17 @@ DecoratorPattern/Espresso.java
  DecoratorPattern.Espresso
 DecoratorPattern/HouseBlend.java
  DecoratorPattern.HouseBlend
+SingletonPattern/Singleton2.java
+ SingletonPattern.Singleton2
+FactoryPattern/ClamPizza.java
+ FactoryPattern.ClamPizza
+FactoryPattern/CheesePizza.java
+ FactoryPattern.CheesePizza
+FactoryPattern/PizzaStore.java
+ FactoryPattern.PizzaStore
+FactoryPattern/SimplePizzaFactory.java
+ FactoryPattern.SimplePizzaFactory
+FactoryPattern/Pizza.java
+ FactoryPattern.Pizza
+SingletonPattern/Singleton.java
+ SingletonPattern.Singleton
