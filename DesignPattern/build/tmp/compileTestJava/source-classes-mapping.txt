@@ -10,3 +10,5 @@ AdapterPattern/AdapterTest.java
  AdapterPattern.AdapterTest
 FacadePattern/FacadeTest.java
  FacadePattern.FacadeTest
+TemplateMethodPattern/TemplateMethodPatternTest.java
+ TemplateMethodPattern.TemplateMethodPatternTest

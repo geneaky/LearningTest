@@ -74,3 +74,9 @@ FacadePattern/CdPlayer.java
  FacadePattern.CdPlayer
 FacadePattern/JProjector.java
  FacadePattern.JProjector
+TemplateMethodPattern/CaffeineBeverage.java
+ TemplateMethodPattern.CaffeineBeverage
+TemplateMethodPattern/Tea.java
+ TemplateMethodPattern.Tea
+TemplateMethodPattern/Coffee.java
+ TemplateMethodPattern.Coffee
