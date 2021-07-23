@@ -2,5 +2,11 @@ ObserverPattern/WeatherStationTest.java
  ObserverPattern.WeatherStationTest
 DecoratorPattern/MochaTest.java
  DecoratorPattern.MochaTest
+CommandPattern/SimpleRemoteControlTest.java
+ CommandPattern.SimpleRemoteControlTest
 SingletonPattern/Singleton2Test.java
  SingletonPattern.Singleton2Test
+AdapterPattern/AdapterTest.java
+ AdapterPattern.AdapterTest
+FacadePattern/FacadeTest.java
+ FacadePattern.FacadeTest

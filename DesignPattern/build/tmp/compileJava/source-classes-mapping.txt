@@ -1,40 +1,76 @@
-ObserverPattern/WeatherData.java
- ObserverPattern.WeatherData
-ObserverPattern/Observer.java
- ObserverPattern.Observer
-ObserverPattern/Subject.java
- ObserverPattern.Subject
+CommandPattern/Command.java
+ CommandPattern.Command
 ObserverPattern/CurrentConditionsDisplay.java
  ObserverPattern.CurrentConditionsDisplay
-ObserverPattern/DisplayElement.java
- ObserverPattern.DisplayElement
-ObserverPattern/CurrentConditionsDisplay2.java
- ObserverPattern.CurrentConditionsDisplay2
-ObserverPattern/ForecastDisplay.java
- ObserverPattern.ForecastDisplay
+FactoryPattern/Pizza.java
+ FactoryPattern.Pizza
+FactoryPattern/SimplePizzaFactory.java
+ FactoryPattern.SimplePizzaFactory
 ObserverPattern/WeatherData2.java
  ObserverPattern.WeatherData2
 DecoratorPattern/Mocha.java
  DecoratorPattern.Mocha
+ObserverPattern/Observer.java
+ ObserverPattern.Observer
+CommandPattern/SimpleRemoteControl.java
+ CommandPattern.SimpleRemoteControl
+ObserverPattern/DisplayElement.java
+ ObserverPattern.DisplayElement
+FactoryPattern/CheesePizza.java
+ FactoryPattern.CheesePizza
+CommandPattern/LightOffCommand.java
+ CommandPattern.LightOffCommand
+DecoratorPattern/HouseBlend.java
+ DecoratorPattern.HouseBlend
 DecoratorPattern/CondimentDecorator.java
  DecoratorPattern.CondimentDecorator
 DecoratorPattern/Beverage.java
  DecoratorPattern.Beverage
 DecoratorPattern/Espresso.java
  DecoratorPattern.Espresso
-DecoratorPattern/HouseBlend.java
- DecoratorPattern.HouseBlend
-SingletonPattern/Singleton2.java
- SingletonPattern.Singleton2
-FactoryPattern/ClamPizza.java
- FactoryPattern.ClamPizza
-FactoryPattern/CheesePizza.java
- FactoryPattern.CheesePizza
 FactoryPattern/PizzaStore.java
  FactoryPattern.PizzaStore
-FactoryPattern/SimplePizzaFactory.java
- FactoryPattern.SimplePizzaFactory
-FactoryPattern/Pizza.java
- FactoryPattern.Pizza
+ObserverPattern/Subject.java
+ ObserverPattern.Subject
+ObserverPattern/WeatherData.java
+ ObserverPattern.WeatherData
 SingletonPattern/Singleton.java
  SingletonPattern.Singleton
+CommandPattern/RoomLight.java
+ CommandPattern.RoomLight
+SingletonPattern/Singleton2.java
+ SingletonPattern.Singleton2
+ObserverPattern/CurrentConditionsDisplay2.java
+ ObserverPattern.CurrentConditionsDisplay2
+FactoryPattern/ClamPizza.java
+ FactoryPattern.ClamPizza
+CommandPattern/Light.java
+ CommandPattern.Light
+ObserverPattern/ForecastDisplay.java
+ ObserverPattern.ForecastDisplay
+AdapterPattern/TurkeyAdapter.java
+ AdapterPattern.TurkeyAdapter
+AdapterPattern/MallardDuck.java
+ AdapterPattern.MallardDuck
+AdapterPattern/WildTurkey.java
+ AdapterPattern.WildTurkey
+CommandPattern/LightOnCommand.java
+ CommandPattern.LightOnCommand
+AdapterPattern/Duck.java
+ AdapterPattern.Duck
+AdapterPattern/Turkey.java
+ AdapterPattern.Turkey
+FacadePattern/JCdPlayer.java
+ FacadePattern.JCdPlayer
+FacadePattern/DvdPlayer.java
+ FacadePattern.DvdPlayer
+FacadePattern/HomeTheaterFacade.java
+ FacadePattern.HomeTheaterFacade
+FacadePattern/Projector.java
+ FacadePattern.Projector
+FacadePattern/JDvdPlayer.java
+ FacadePattern.JDvdPlayer
+FacadePattern/CdPlayer.java
+ FacadePattern.CdPlayer
+FacadePattern/JProjector.java
+ FacadePattern.JProjector
