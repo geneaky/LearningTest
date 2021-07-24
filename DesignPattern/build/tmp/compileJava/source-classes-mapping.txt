@@ -80,3 +80,11 @@ TemplateMethodPattern/Tea.java
  TemplateMethodPattern.Tea
 TemplateMethodPattern/Coffee.java
  TemplateMethodPattern.Coffee
+IteratorPattern/Waitress.java
+ IteratorPattern.Waitress
+IteratorPattern/MenuItem.java
+ IteratorPattern.MenuItem
+IteratorPattern/DinnerMenuIterator.java
+ IteratorPattern.DinnerMenuIterator
+IteratorPattern/DinnerMenu.java
+ IteratorPattern.DinnerMenu

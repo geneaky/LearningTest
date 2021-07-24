@@ -13,7 +13,6 @@ class TemplateMethodPatternTest {
   public void getCoffeeWhenHookReturnTrue() throws Exception {
     Coffee coffee = new Coffee();
     coffee.beverageHook(true);
-
     Assertions.assertThat(coffee.preparedRecipe()).isEqualTo("물 끓이고 필터로 커피를 우려내는중설탕과 커피를 추가하는중");
 
   }
