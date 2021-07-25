@@ -100,3 +100,15 @@ StatePattern/HasQuarterState.java
  StatePattern.HasQuarterState
 StatePattern/SoldOutState.java
  StatePattern.SoldOutState
+ProxyPattern/GumballMonitor.java
+ ProxyPattern.GumballMonitor
+ProxyPattern/GumballMachine.java
+ ProxyPattern.GumballMachine
+ProxyPattern/PersonBeanImpl.java
+ ProxyPattern.PersonBeanImpl
+ProxyPattern/NonOwnerInvocationHandler.java
+ ProxyPattern.NonOwnerInvocationHandler
+ProxyPattern/PersonBean.java
+ ProxyPattern.PersonBean
+ProxyPattern/OwnerInvocationHandler.java
+ ProxyPattern.OwnerInvocationHandler

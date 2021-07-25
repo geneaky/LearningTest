@@ -16,3 +16,5 @@ TemplateMethodPattern/TemplateMethodPatternTest.java
  TemplateMethodPattern.TemplateMethodPatternTest
 StatePattern/StatePatternTest.java
  StatePattern.StatePatternTest
+ProxyPattern/ProxyPatternTest.java
+ ProxyPattern.ProxyPatternTest
