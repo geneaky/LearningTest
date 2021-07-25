@@ -14,3 +14,5 @@ IteratorPattern/IteratorPatternTest.java
  IteratorPattern.IteratorPatternTest
 TemplateMethodPattern/TemplateMethodPatternTest.java
  TemplateMethodPattern.TemplateMethodPatternTest
+StatePattern/StatePatternTest.java
+ StatePattern.StatePatternTest

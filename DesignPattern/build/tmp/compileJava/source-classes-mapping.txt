@@ -88,3 +88,15 @@ IteratorPattern/DinnerMenuIterator.java
  IteratorPattern.DinnerMenuIterator
 IteratorPattern/DinnerMenu.java
  IteratorPattern.DinnerMenu
+StatePattern/State.java
+ StatePattern.State
+StatePattern/SoldState.java
+ StatePattern.SoldState
+StatePattern/GamballMachine.java
+ StatePattern.GamballMachine
+StatePattern/NoQuarterState.java
+ StatePattern.NoQuarterState
+StatePattern/HasQuarterState.java
+ StatePattern.HasQuarterState
+StatePattern/SoldOutState.java
+ StatePattern.SoldOutState
