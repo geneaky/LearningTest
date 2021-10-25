@@ -6,7 +6,7 @@ public class Permutation2 {
     Permutation2 ex = new Permutation2();
     int[] arr = {1,2,3,4};
 
-    ex.doPermutation(arr,0);
+    ex.doPermutation(arr,0);//0번 index에서 시작함
   }
 
   private void doPermutation(int[] arr, int startIdx) {
